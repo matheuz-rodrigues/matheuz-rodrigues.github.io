@@ -71,7 +71,8 @@ function projetos(section) {
             </div>
           </div>
           <p>
-            Projeto Social que ajuda no bem estar e qualidade de vida das pessoas.
+            Portifolio de Atividades desenvolvidas durante a disciplina de Análise e
+            Complexidade de Algoritmos.
           </p>
           <p>HTML - Tailwind - JavaScript</p>
         </div>
