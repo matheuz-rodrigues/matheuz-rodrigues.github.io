@@ -9,7 +9,8 @@ const notebook_1 = document.querySelector("#notebook-1");
 const notebook_2 = document.querySelector("#notebook-2");
 const notebook_2_white = document.querySelector("#notebook-2-white");
 const vidro = document.querySelector("#vidro");
-
+console.error("⚠️ Olá dev curioso! Encontrou algo por aqui?");
+console.error("Entre em contato comigo: https://api.whatsapp.com/send?phone=5591999175479");
 window.addEventListener("load", function begin() {
   projetos(projectsSection);
 });

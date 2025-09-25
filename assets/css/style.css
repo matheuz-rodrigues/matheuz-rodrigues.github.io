@@ -1281,6 +1281,16 @@ footer .social-links li:nth-child(4) svg path:nth-child(2) {
     bottom: 7rem;
   }
 
+  #home .content .buttons-container {
+  display: flex;
+  gap: 2rem;
+  justify-content: flex-start;
+}
+
+#home .content .buttons-container .button {
+  margin-bottom: 0;
+}
+
   #home img {
     width: 42rem;
   }
